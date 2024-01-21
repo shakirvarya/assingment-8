@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#myself{
+    background-color: #2f2f2f;
+    height: 200px;
+}
+#h-3{
+    margin-top: 50px;
+}
+.margin{
+    color: #fff;
+}
+.para{
+    color: #fff;
+}
